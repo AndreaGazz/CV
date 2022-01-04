@@ -1,5 +1,7 @@
-body { background-color: #E4F9F5;
+/***************************************TAG*************************************/
 
+body { background-color: #E4F9F5;
+text-align: center;
 }
 hr { background-color: #DBE2EF;
   border-style: none none dotted;
@@ -8,8 +10,21 @@ hr { background-color: #DBE2EF;
   width: 7%;
 }
 h1{
-  color: #66BFBF;
+  font-family: "Pacifico", cursive;
+
 }
 h3{
-  color: #66BFBF;
+  color: #0f140a;
 }
+
+
+/***************************************CLASS*************************************/
+
+.middle-container{
+  padding-top: 150px;
+}
+.skill-img{
+  height: 350px;
+}
+
+/***************************************ID*************************************/
