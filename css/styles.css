@@ -1,9 +1,11 @@
 /***************************************TAG*************************************/
 
-body { background-color: #E4F9F5;
+body { 
 text-align: center;
+font-family: 'Merriweather Sans', sans-serif;
+margin: 0;
 }
-hr { background-color: #DBE2EF;
+hr { background-color: #F0F5F9;
   border-style: none none dotted;
   border-width: 5px;
   border-color: grey;
@@ -11,20 +13,49 @@ hr { background-color: #DBE2EF;
 }
 h1{
   font-family: "Pacifico", cursive;
+  color: #252A34;
+  text-shadow: 3px 2px #F0F5F9;
 
 }
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: #252A34;
+  font-size: 200%;
+  font-weight: normal;
+}
 h3{
-  color: #0f140a;
+  font-family: 'Montserrat', sans-serif;
+  color: #FF2E63;
+}
+a{
+  color: #FF2E63;
 }
 
 
 /***************************************CLASS*************************************/
 
 .middle-container{
-  padding-top: 150px;
+  padding-top: 100px;
+  background-color: #08D9D6;
+  padding: 100px ;
 }
 .skill-img{
   height: 350px;
 }
-
+.design-img{
+  height: 350px;
+}
+.main-title{
+  font-size: 565%;
+}
+.skills{
+  margin-top: 50px;
+}
+.contact-me{
+background-color: #EAEAEA;
+}
+.bottom-container{
+  background-color: #EAEAEA;
+  padding-bottom: 25px;
+}
 /***************************************ID*************************************/
