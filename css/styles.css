@@ -1,4 +1,4 @@
-/***************************************TAG*************************************/
+/***************************************ELEMENTS*************************************/
 
 body { 
 text-align: center;
@@ -40,10 +40,9 @@ a{
   padding: 100px ;
 }
 
-.info-img{
-  width: 15%;
-  margin-left: 30px;
-  float: right;
+.random{
+  font-size: larger;
+  align-items: center;
 }
 
 .skill-img{
